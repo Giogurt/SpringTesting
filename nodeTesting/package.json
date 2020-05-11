@@ -1,0 +1,18 @@
+{
+  "name": "nodetesting",
+  "version": "1.0.0",
+  "description": "Test JS Lab",
+  "main": "test/test.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^7.1.2"
+  }
+}
